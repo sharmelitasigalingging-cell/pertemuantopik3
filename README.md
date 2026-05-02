@@ -3,7 +3,7 @@
 📦 Project praktikum Minggu 3 - Flexbox Mastery.
 
 ## 📸 Preview
-![App Screen](screenshot.png)
+![App Screen](https://github.com/sharmelitasigalingging-cell/pertemuantopik3/blob/main/sstpk3.png.jpeg)
 
 ## 🛠️ Features
 - Responsive Grid Layout (2x2)
@@ -12,7 +12,7 @@
 - ScrollView untuk orientasi landscape
 
 ## 🔗 Live Preview
-[Cek di Expo Snack](LINK_SNACK_KAMU)
+[Cek di Expo Snack](https://snack.expo.dev/@arin_its06/pertemuantopik3)
 
 ## ▶️ How to Run
 ```bash
